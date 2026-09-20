@@ -1,4 +1,4 @@
-<img src="portada.png" alt="Wilfer Becerra" width="100%">
+<img src="banner.png" alt="Wilfer Becerra" width="100%">
 
 ### Wilfer Becerra
 
