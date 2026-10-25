@@ -2,12 +2,14 @@
 
 ### Wilfer Becerra
 
+Fundador de [Albor](https://albor-automations.com).
+
 Construyo sistemas para trabajo que hoy se hace a mano. Vengo de la operativa (reparto, almacén, administración) y monto las herramientas que me habría gustado tener cuando llevaba las cuentas de una empresa de paquetería: bots que leen los reportes, sistemas que calculan las liquidaciones y scripts que convierten cientos de PDFs en un Excel ordenado. No me limito a automatizar: bases de datos, servidores, informes y web también entran.
 
 **En lo que trabajo**
 
 - **Exodus Logistics** — Liquidaciones, reportes y facturación para reparto de última milla. Hoy funciona como bot de WhatsApp para un cliente de paquetería; la versión web para varias empresas está en desarrollo.
-- **Albor Automations** — Sistemas a medida para pymes: flujos en n8n, lectura de documentos con Claude y GPT, informes en Excel y PDF que se generan solos. [albor-automations.com](https://albor-automations.com)
+- **Albor** — Modernizo empresas con IA y automatización para que ganen tiempo cada día: flujos en n8n, lectura de documentos con Claude y GPT, informes en Excel y PDF que se generan solos. [albor-automations.com](https://albor-automations.com)
 - **PDF to Excel** — Procesamiento masivo de facturas en PDF, también escaneadas, con Claude Vision. Hasta 500 documentos en una sola ejecución.
 
 **Un dato**
